@@ -1,2 +1,4 @@
 # hello-world
-This is for learn how to use github
+This is for to learn how to use github
+
+Is that fixed now?
